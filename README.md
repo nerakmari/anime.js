@@ -5,6 +5,11 @@
 Friendly Neighbour: Norvillie Villaruel
   - Figuring out why the animejs isn't working by pointing out that I did the documentation wrong. 
 
+[Github](https://github.com/nerakmari/anime.js.
+git)
+
+[GH Pages](https://nerakmari.github.io/anime.js/)
+
 Code: 
 [Tobia Sahlin](https://tobiasahlin.com/)
 
